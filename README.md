@@ -1,5 +1,5 @@
 # Nikon-D3400-DK-25-Extension
-Extension for a thicker extruding eyepiece for use in between the Nikon D3400 eyepiece shoe and DK - 25 rubber cap for a more comfortable posture when shooting through the eyepiece.
+Extension for a thicker extruding eyepiece for use in between the Nikon D3400 eyepiece shoe and DK - 25 rubber cap for a more comfortable posture when shooting through the viewfinder.
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
 International License][cc-by-sa].
